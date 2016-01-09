@@ -1,5 +1,5 @@
 FROM php:7.0.2-fpm
-MAINTAINER Mark Shust <mark.shust@mageinferno.com>
+MAINTAINER Mark Shust 
 
 RUN apt-get update \
   && apt-get install -y \
